@@ -12,7 +12,7 @@ $isDevMode = true;
 $dbParams = array(
     'driver'   => 'pdo_mysql',
     'user'     => 'admin',
-    'password' => 'w4xwjryk',
+    'password' => 'xxxx',
     'dbname'   => 'database_a',
 );
 
