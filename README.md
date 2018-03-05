@@ -3,7 +3,6 @@ Simple example of cross database join in doctrine 2
  
 ## Installation
 
-Apache rewrite module must be enable.
 Just clone the project in in your www or htdocs directory.
 
 Go into project folder
@@ -27,4 +26,7 @@ Configure databse and import sql files which is in sql folder.
 # Run Applicationn
 
 http://localhost/doctrine2-with-cross-db-joins/fetch.php
+
+
+Visit for full detail: https://rapidsol.blogspot.com/2017/12/tutorial-doctrine-2-linux.html
 
